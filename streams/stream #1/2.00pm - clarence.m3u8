@@ -1,0 +1,68 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/show-specific-bumpers/clarence.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 2:00 P.M. - CLARENCE
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CLARENCE
+https://anondrop.net/1535673619500367913/clarence_eps9.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/GameFly%20Gamers%202015%20-%20Mark%20Wilkinson%20(1080p).mp4
+#EXTINF:0, Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20-%20Promo%20-%20Week%20Of%20Action%202026%20Promo%20Every%20Sunday!%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general%202.mp4
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CLARENCE
+https://anondrop.net/1535673592090591393/clarence_eps8.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT IS STEVEN UNIVERSE
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/next-later/next-stevenuniverse.mp4
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Slick%20Fix%C2%AE%20Commercial%20(2015)%20Flex%20Seal%C2%AE%20-%20Flex%20Seal%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/M%26M's%20-%20Trailer%20(2015%2C%20USA)%20-%20The%20Hall%20of%20Advertising%20(1080p).mp4
+#EXTINF:0, CHECK it! it's CN MENA+!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Ben%2010%20Omniverse%20New%20Promo%20CN%20MENA%2B%20Promo%20Check%20it%201.0.mp4
+
+#END

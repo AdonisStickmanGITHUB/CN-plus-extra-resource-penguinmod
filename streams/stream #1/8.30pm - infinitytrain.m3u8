@@ -1,0 +1,61 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 8:30 P.M. - INFINITY TRAIN
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - INFINITY TRAIN
+https://anondrop.net/1535979806691172392/infinitytrainbook1_chapter1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Android%20Friends%20Furever.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20(webchannel)%20-%202026%20Promo%20-%20MAD%20Every%20Weekend%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/M%26M's%20-%20Trailer%20(2015%2C%20USA)%20-%20The%20Hall%20of%20Advertising%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20wbb.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - INFINITY TRAIN
+https://anondrop.net/1535979800504569968/infinitytrainbook1_chapter2.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+
+#EXTINF:0, MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE%20TIME!.webm
+#EXTINF:0, MINISODE - INFINITY TRAIN
+https://anondrop.net/1536449026457600142/infinitytrain_shorts1.mp4?download=true
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/unclegrandpa-full.mp4
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+
+#EXTINF:0, GOOD NIGHT!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/Cartoon%20Network%20-%20CHECK%20it%203.0%20Sign%20Off%20-%20Finn%20_%20Jake%20Crying.mp4
+
+#END

@@ -1,0 +1,71 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20regular%20show.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 4:30 P.M. - REGULAR SHOW
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - REGULAR SHOW
+https://anondrop.net/1534324918034890944/regularshows2e4.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Slick%20Fix%C2%AE%20Commercial%20(2015)%20Flex%20Seal%C2%AE%20-%20Flex%20Seal%20(360p).mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Bleach%20New%20Episodes%20Promo.mp4
+#EXTINF:0, Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Super%20Mario%20Maker%20US%20TV%20Commercial%20-%20Videos%20AGB%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/GameFly%20Gamers%202015%20-%20Mark%20Wilkinson%20(1080p).mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general%202.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - REGULAR SHOW
+https://anondrop.net/1534371996534575104/regularshows2e16.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT IS THE LOONEY TUNES SHOW
+#===============================================================================
+#EXTINF:-1 tvg-id="Filler" tvg-name=" CN+ Filler " group-title="Github", FILLER
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/Cartoon%20Network%20Europe%20-%20Loop%20Bumper%20(CHECK%20it%204.0)%20-%20zQwmy%20(480p).mp4
+
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/GameFly%20Gamers%202015%20-%20Mark%20Wilkinson%20(1080p).mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+#EXTINF:0, MOVIE TV SPOT 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Peanuts%20Movie%20-%20McDonald%E2%80%99s%20Happy%20Meal%20Commercial%20-%20Mike%20Cushny%20(720p).mp4
+
+#====================================================================================
+#FILLER
+#====================================================================================
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE TIME!.webm
+
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE - WE BARE BEARS
+https://anondrop.net/1536508047474565180/wbb_shorts1.mp4?download=true
+#====================================================================================
+
+#END

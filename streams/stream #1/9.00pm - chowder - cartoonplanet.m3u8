@@ -1,0 +1,54 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CARTOON PLANET - HELLO EVERYBODY!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/CARTOON%20PLANET/intro.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 9:00 P.M. - CHOWDER
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CHOWDER
+https://anondrop.net/1536087083213389925/chowder5.mp4?download=true
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/skittles%20pox.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chrysler%20200%20Commercial%202015%20HD%20-%20Kley%20Commercials%20(360p).mp4
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:0, Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+#EXTINF:0, MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Star%20Wars%20The%20Force%20Awakens%20Official%20TV%20Spot%20-%20Generation%20(2015)%20-%20Star%20Wars%20Movie%20HD%20-%20Rotten%20Tomatoes%20Trailers%20(1080p).mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CARTOON PLANET - WHAT'S IN MY MOUTH?
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/CARTOON%20PLANET/whats-in-my-mouth.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CHOWDER
+https://anondrop.net/1536087074795692124/chowder6.mp4?download=true
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT IS THE POWERPUFF GIRLS
+#===============================================================================
+
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chuck%20E.%20Cheese%20Commercial%20(2016)%20-%20CEC%20Washington%20(360p).mp4
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20-%20Promo%20-%20Week%20Of%20Action%202026%20Promo%20Every%20Sunday!%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Slick%20Fix%C2%AE%20Commercial%20(2015)%20Flex%20Seal%C2%AE%20-%20Flex%20Seal%20(360p).mp4
+
+#END

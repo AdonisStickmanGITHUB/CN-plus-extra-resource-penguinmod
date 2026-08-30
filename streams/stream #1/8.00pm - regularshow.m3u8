@@ -1,0 +1,66 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20regular%20show.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 8:00 P.M. - REGULAR SHOW
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - REGULAR SHOW
+https://anondrop.net/1534359693240307844/regularshows2e19.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20(webchannel)%20-%202026%20Promo%20-%20MAD%20Every%20Weekend%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/M%26M's%20-%20Trailer%20(2015%2C%20USA)%20-%20The%20Hall%20of%20Advertising%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lego%20Legends%20of%20Chima%202015%20Sir%20Fangar%E2%80%99s%20Saber%20Tooth%20Walker%20vs%20Laval%E2%80%99s%20Fire%20Lion%20Commercial%20-%20X%20Soft%20(720p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/show-specific-bumpers/CN%20Canada%20Europe%20-%20CHECK%20it%204.5%20Bumper%20-%20Regular%20Show.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - REGULAR SHOW
+https://anondrop.net/1542693699035602964/regularshow-domeasolid.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#INFINITY TRAIN IS NEXT, RIGHT BEFORE SIGN-OFF.
+#===============================================================================
+
+#EXTINF:0, CHECK it! it's CN MENA+!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Ben%2010%20Omniverse%20New%20Promo%20CN%20MENA%2B%20Promo%20Check%20it%201.0.mp4
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/LEGO%20Dimensions%20Starter%20Pack%20Adventure%20-%20LEGO%20Dimensions%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/skittles%20pox.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20Hasbro%20Hero%20Mashers%20TV%20Commercial%20(2015)%20HD%20-%20FlattenedSnakeFilms%20(720p).mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://github.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/blob/AdonisStickmanGITHUB-patch-1/real-commercials/Hot%20Wheels%20Nitrobot%20Attack%20Trackset%20TV%20Commercial%20(Fall%202015)%20%40HotWheels%20-%20Mattel%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lay%E2%80%99s%20TV%20Commercial%20%E2%80%93%20Out%20For%20Some%20Lay%E2%80%99s%20And%20You%20Face%20A%20Test%20-%20Schuckspeare%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+
+#END

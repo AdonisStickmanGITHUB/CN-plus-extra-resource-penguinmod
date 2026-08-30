@@ -1,0 +1,72 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20adventure%20time.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 10:00 A.M. - CRAIG OF THE CREEK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CRAIG OF THE CREEK
+https://anondrop.net/1535324785171628064/craigofthecreek_s1e7.mp4?download=true
+
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name=" Education Connection Commerical" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/education%20connection.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Hotwheels  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Hexbugs Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Gorilla Tape Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Hotwheels  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Lego MC  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://anondrop.net/1535324821288656968/craigofthecreek_s1e13.mp4?download=true
+
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - CRAIG OF THE CREEK
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+
+#EXTINF:-1 tvg-id="Filler" tvg-name=" CN+ Filler " group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/Cartoon%20Network%20Europe%20-%20Loop%20Bumper%20(CHECK%20it%204.0)%20-%20zQwmy%20(480p).mp4
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Pepsi  Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Fruitsnackia Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Gorilla Tape Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Hotwheels  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Lego MC  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Krave Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Kellogg's%20Commercial%202015%20HD%20Krave.mp4
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0450.mp4
+
+#END

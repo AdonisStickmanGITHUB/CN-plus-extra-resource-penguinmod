@@ -1,0 +1,70 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20gumball.mp4
+
+# ===============================================================================================
+
+# ===============================================================================================
+# 9:00 A.M. - THE LOONEY TUNES SHOW
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE LOONEY TUNES SHOW
+https://anondrop.net/1535030343944638587/looneytunesshow_e1_part1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commercial" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="McDonald's Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Feed%20Your%20Imagination%20_%20McDonald's.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Hotwheels  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Super%20Mario%20Maker%20US%20TV%20Commercial%20-%20Videos%20AGB%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler 2" group-title="Github", CN+ Burst Non-Filler 2
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general%202.mp4
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE LOONEY TUNES SHOW
+https://anondrop.net/1535030245130764308/looneytunesshow_eps1_part2.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+# THE SNEAK PEEK OF BUNNICULA IS UP NEXT
+#===============================================================================
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Pepsi  Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://github.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/blob/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Nerf%20Elite%20Hyperfire%20-%20Yorkshire%20Outdoor%20Activity%20Park%20(720p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Android%20Friends%20Furever.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/the_peanuts_movie_(2015)_tv_spot%20(720p).mp4
+
+
+#END

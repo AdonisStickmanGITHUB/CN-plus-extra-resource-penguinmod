@@ -1,0 +1,51 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CARTOON PLANET - EGGPLANT 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/CARTOON%20PLANET/eggplant.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 11:00 P.M. - COURAGE THE COWARDLY DOG 
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536087034203213967/courage1_1.mp4?download=true
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Bleach%20New%20Episodes%20Promo.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Feed%20Your%20Imagination%20_%20McDonald's.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CARTOON PLANET...IS BACK
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/CARTOON%20PLANET/we-are-back.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536087043816296519/courage1_2.mp4?download=true
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lay%E2%80%99s%20TV%20Commercial%20%E2%80%93%20Out%20For%20Some%20Lay%E2%80%99s%20And%20You%20Face%20A%20Test%20-%20Schuckspeare%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chuck%20E.%20Cheese%20Commercial%20(2016)%20-%20CEC%20Washington%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/education%20connection.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lego%20Legends%20of%20Chima%202015%20Sir%20Fangar%E2%80%99s%20Saber%20Tooth%20Walker%20vs%20Laval%E2%80%99s%20Fire%20Lion%20Commercial%20-%20X%20Soft%20(720p).mp4
+
+#END

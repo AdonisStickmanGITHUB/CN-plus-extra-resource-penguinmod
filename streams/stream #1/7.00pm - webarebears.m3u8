@@ -1,0 +1,69 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/show-specific-bumpers/CN%20Bumper%20_%20We%20Bare%20Bears%20%23bearstack%20Teaser%20_%20CHECK%20it%204.0.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 7:00 P.M. - WE BARE BEARS
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - WE BARE BEARS
+https://anondrop.net/1535457959788810251/wbb_eps13.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/unclegrandpa-full.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20Hasbro%20Hero%20Mashers%20TV%20Commercial%20(2015)%20HD%20-%20FlattenedSnakeFilms%20(720p).mp4
+#EXTINF:30, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+#EXTINF:0, Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler - We Bare Bears
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20wbb.mp4
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - WE BARE BEARS
+https://anondrop.net/1535458713568288859/wbb_eps9.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#REGULAR SHOW IS UP NEXT
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/next-later/next-regularshow.mp4
+
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/LEGO%20Dimensions%20Starter%20Pack%20Adventure%20-%20LEGO%20Dimensions%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chrysler%20200%20Commercial%202015%20HD%20-%20Kley%20Commercials%20(360p).mp4
+#EXTINF:15, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Kellogg's%20Commercial%202015%20HD%20Krave.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lego%20Legends%20of%20Chima%202015%20Sir%20Fangar%E2%80%99s%20Saber%20Tooth%20Walker%20vs%20Laval%E2%80%99s%20Fire%20Lion%20Commercial%20-%20X%20Soft%20(720p).mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+
+#END

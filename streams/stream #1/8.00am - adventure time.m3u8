@@ -1,0 +1,69 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20adventure%20time.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 8:00 A.M. - ADVENTURE TIME
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - ADVENTURE TIME
+https://anondrop.net/1534565711173914634/adventuretimes1e6_part_1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Gorilla Tape Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/LEGO%20Dimensions%20Starter%20Pack%20Adventure%20-%20LEGO%20Dimensions%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/education%20connection.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Geico Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/We%20All%20Do%20It%20One%20Trip%20-%20GEICO%20Insurance%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/skittles%20pox.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Android%20Friends%20Furever.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/show-specific-bumpers/CN%20Bumper%20-%20Finn%20Climbing%20Jake%20-%20CHECK%20it%204.0.mp4
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - ADVENTURE TIME
+https://anondrop.net/1538589873290747914/adventuretime106_partb.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#CLARENCE IS UP NEXT
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/next-later/next-clarence.mp4
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/education%20connection.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Super%20Mario%20Maker%20US%20TV%20Commercial%20-%20Videos%20AGB%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lay%E2%80%99s%20TV%20Commercial%20%E2%80%93%20Out%20For%20Some%20Lay%E2%80%99s%20And%20You%20Face%20A%20Test%20-%20Schuckspeare%20(360p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20(webchannel)%20-%202026%20Promo%20-%20MAD%20Every%20Weekend%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+
+
+#END

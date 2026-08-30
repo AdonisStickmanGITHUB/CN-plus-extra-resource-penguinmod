@@ -1,0 +1,76 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20wbb.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 1:30 P.M. - APPLE AND ONION
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - APPLE AND ONION
+https://anondrop.net/1535324792578900149/appleandonion_eps6.mp4?download=true
+
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0450.mp4
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20(webchannel)%20-%202026%20Promo%20-%20MAD%20Every%20Weekend%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Android%20Friends%20Furever.mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lego%20Legends%20of%20Chima%202015%20Sir%20Fangar%E2%80%99s%20Saber%20Tooth%20Walker%20vs%20Laval%E2%80%99s%20Fire%20Lion%20Commercial%20-%20X%20Soft%20(720p).mp4
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:0, GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/LEGO%20Dimensions%20Starter%20Pack%20Adventure%20-%20LEGO%20Dimensions%20(1080p).mp4
+
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general.mp4
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - APPLE AND ONION
+https://anondrop.net/1535324654766399499/appleandonion_eps9.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/next-later/next-clarence.mp4
+
+#====================================================================================
+#FILLER
+#====================================================================================
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE TIME!.webm
+
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE - OK KO
+https://anondrop.net/1536449065779335188/okko_shorts2.mp4?download=true
+#====================================================================================
+
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20Hasbro%20Hero%20Mashers%20TV%20Commercial%20(2015)%20HD%20-%20FlattenedSnakeFilms%20(720p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chuck%20E.%20Cheese%20Commercial%20(2016)%20-%20CEC%20Washington%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/skittles%20pox.mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Choice%20Pepsi%20Super%20Bowl%20-%20Pepsi%20(1080p).mp4
+#EXTINF:0, MOVIE TV SPOT 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/The%20Peanuts%20Movie%20-%20McDonald%E2%80%99s%20Happy%20Meal%20Commercial%20-%20Mike%20Cushny%20(720p).mp4
+
+#END

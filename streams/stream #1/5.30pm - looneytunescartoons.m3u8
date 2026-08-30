@@ -1,0 +1,55 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20regular%20show.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 5:30 P.M. - THE PREMIERE OF LOONEY TUNES CARTOONS
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE PREMIERE OF LOONEY TUNES CARTOONS!
+https://anondrop.net/1534045336136585218/looneytunescartoons1.mp4?download=true
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:0, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lay%E2%80%99s%20TV%20Commercial%20%E2%80%93%20Out%20For%20Some%20Lay%E2%80%99s%20And%20You%20Face%20A%20Test%20-%20Schuckspeare%20(360p).mp4
+#EXTINF:0, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+#EXTINF:0, MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Star%20Wars%20The%20Force%20Awakens%20Official%20TV%20Spot%20-%20Generation%20(2015)%20-%20Star%20Wars%20Movie%20HD%20-%20Rotten%20Tomatoes%20Trailers%20(1080p).mp4
+#EXTINF:0, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Eureka%20Seven%20Promo.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20wbb.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE PREMIERE OF LOONEY TUNES CARTOONS!
+https://anondrop.net/1534174119422328954/looneytunescartoons2.mp4?download=true
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#STEVEN UNIVERSE IS NEXT
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/next-later/next-stevenuniverse.mp4
+
+#EXTINF:4, MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE%20TIME!.webm
+#EXTINF:120, MINISODE - WE BARE BEARS
+https://anondrop.net/1536508262600679454/wbb_shorts2.mp4?download=true
+
+#END

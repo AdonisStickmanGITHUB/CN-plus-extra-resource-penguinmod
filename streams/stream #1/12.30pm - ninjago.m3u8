@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:5, CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20wbb.mp4
+#EXTINF:681, NOW PLAYING - NINJAGO
+https://anondrop.net/1534909155653980330/ninjago27_A.mp4?download=true
+#EXTINF:30, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20-%20Promo%20-%20Week%20Of%20Action%202026%20Promo%20Every%20Sunday!%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:60, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/education%20connection.mp4
+#EXTINF:15, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:30, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+#EXTINF:60, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Super%20Wubble%20Commercial%202016.mp4
+#EXTINF:30, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Bleach%20New%20Episodes%20Promo.mp4
+#EXTINF:30, MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Star%20Wars%20The%20Force%20Awakens%20Official%20TV%20Spot%20-%20Generation%20(2015)%20-%20Star%20Wars%20Movie%20HD%20-%20Rotten%20Tomatoes%20Trailers%20(1080p).mp4
+#EXTINF:6, CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general%202.mp4
+#EXTINF:638, NOW PLAYING - NINJAGO
+https://anondrop.net/1534929121052725418/ninjago27_B.mp4?download=true
+#EXTINF:5, UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/next-later/next-regularshow.mp4
+#EXTINF:30, Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:15, Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Kellogg's%20Commercial%202015%20HD%20Krave.mp4
+#EXTINF:30, Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+#EXTINF:30, MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20TV%20SPOT%20-%20Nightmares%20Are%20Born%20(2015)%20-%20Dinosaur%20Thriller%20HD%20-%20Rotten%20Tomatoes%20Coming%20Soon%20(720p).mp4
+
+#====================================================================================
+#FILLER
+#====================================================================================
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE TIME!.webm
+
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE - OK KO
+https://anondrop.net/1536449069147357286/okko_shorts1.mp4?download=true
+#====================================================================================

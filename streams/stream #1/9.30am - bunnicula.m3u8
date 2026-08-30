@@ -1,0 +1,75 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20adventure%20time.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 9:30 A.M. - BUNNICULA (SNEAK PEEK)
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE SNEAK PEEK OF BUNNICULA!
+https://anondrop.net/1535830882341093457/bunnicula_sneakpeek1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Feed%20Your%20Imagination%20_%20McDonald's.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Hot%20Wheels%20Nitrobot%20Attack%20Trackset%20TV%20Commercial%20(Fall%202015)%20%40HotWheels%20-%20Mattel%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Kellogg's%20Commercial%202015%20HD%20Krave.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/GameFly%20Gamers%202015%20-%20Mark%20Wilkinson%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202015%20-%20(USA)%20-%20SN%C2%AE%20(480p).mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general.mp4
+
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - THE SNEAK PEEK OF BUNNICULA!
+https://anondrop.net/1535831145579675741/bunnicula_sneakpeek2.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT
+#===============================================================================
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/0001-0900.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/LEGO%20Dimensions%20Starter%20Pack%20Adventure%20-%20LEGO%20Dimensions%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chuck%20E.%20Cheese%20Commercial%20(2016)%20-%20CEC%20Washington%20(360p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20Hasbro%20Hero%20Mashers%20TV%20Commercial%20(2015)%20HD%20-%20FlattenedSnakeFilms%20(720p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/HEXBUG%20nano%20V2%20Launchpad%20-%20Commercial%20-%20Hex%20Bots%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="Commericlal" group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+
+#====================================================================================
+#FILLER
+#====================================================================================
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE TIME!.webm
+
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE - MIXELS
+https://anondrop.net/1536508294301098086/mixels_shorts3.mp4?download=true
+
+#EXTINF:-1 tvg-id="Filler" tvg-name=" CN+ Filler " group-title="Github", FILLER
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/Cartoon%20Network%20Europe%20-%20Loop%20Bumper%20(CHECK%20it%204.0)%20-%20zQwmy%20(480p).mp4
+#====================================================================================
+
+
+#END

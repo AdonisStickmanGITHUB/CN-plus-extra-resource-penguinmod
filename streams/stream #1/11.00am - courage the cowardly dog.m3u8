@@ -1,0 +1,59 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20general%202.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 10:30 A.M. - SUMMER CAMP ISLAND
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536012640768237688/courage_s1e4_part1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Soon... 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/advert/FNAF%20plush%20promo%20(current).webm
+#EXTINF:-1 tvg-id="Commercial" tvg-name=" Lego MC  Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name="Commercial" group-title="MOVIE TRAILER", MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Jurassic%20World%20TV%20SPOT%20-%20Nightmares%20Are%20Born%20(2015)%20-%20Dinosaur%20Thriller%20HD%20-%20Rotten%20Tomatoes%20Coming%20Soon%20(720p).mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name="Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Android%20Friends%20Furever.mp4
+#EXTINF:-1 tvg-id="Commerical" tvg-name="  Gorilla Tape Commericlal" group-title="Github", Commerical 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/Gorilla%20Tape%20Commercial%202015.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20adventure%20time.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536012578193539233/courage_s1e4_part2.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT - COURAGE THE COWARDLY DOG
+#===============================================================================
+#EXTINF:-1 tvg-id="UP NEXT" tvg-name=" CN+ Filler " group-title="Github", UP NEXT
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/next-later/more-courage.mp4
+
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20-%20Promo%20-%20Week%20Of%20Action%202026%20Promo%20Every%20Sunday!%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name="Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name="Commercial" group-title="GAME COMMERCIAL", GAME COMMERCIAL 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Skylanders_%20SuperChargers%20TV%20Commercial%20for%20Wii%20%26%20WiiU%20-%202015.mp4
+#EXTINF:-1 tvg-id="Commercial" tvg-name="Commercial" group-title="Github", Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Super%20Wubble%20Commercial%202016.mp4
+#EXTINF:-1 tvg-id="PROMOTIONAL MATERIAL" tvg-name="PROMOTIONAL MATERIAL" group-title="PROMOTIONAL MATERIAL", Placid! The HUB for Anime!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Placid%20Samurai%20Champloo%20Promo.mp4
+
+#END

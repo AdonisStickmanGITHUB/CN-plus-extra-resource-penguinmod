@@ -1,0 +1,73 @@
+#EXTM3U
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20adventure%20time.mp4
+# ===============================================================================================
+
+# ===============================================================================================
+# 11:30 A.M. - SUMMER CAMP ISLAND
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536012640768237688/courage_s1e4_part1.mp4?download=true
+
+# ===============================================================================================
+# COMMERCIAL BREAK
+# ===============================================================================================
+
+#EXTINF:0, CHECK it! it's CN EXTRAS!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Cartoon%20Network%20Extras%20-%20Promo%20-%20Week%20Of%20Action%202026%20Promo%20Every%20Sunday!%20(Check%20It%203.0)%20-%20RedHTTPL%20(1080p).mp4
+#EXTINF:30, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/hotweels.mp4
+#EXTINF:29, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/refs/heads/AdonisStickmanGITHUB-patch-1/real-commercials/lego%20minecraft.mp4
+#EXTINF:0, CHECK it! it's CN MENA+!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/other%20channels/Ben%2010%20Omniverse%20New%20Promo%20CN%20MENA%2B%20Promo%20Check%20it%201.0.mp4
+#EXTINF:0, Commercial 
+https://github.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/blob/AdonisStickmanGITHUB-patch-1/real-commercials/Hot%20Wheels%20Nitrobot%20Attack%20Trackset%20TV%20Commercial%20(Fall%202015)%20%40HotWheels%20-%20Mattel%20(1080p).mp4
+#EXTINF:30, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chuck%20E.%20Cheese%20Commercial%20(2016)%20-%20CEC%20Washington%20(360p).mp4
+#EXTINF:29, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Chrysler%20200%20Commercial%202015%20HD%20-%20Kley%20Commercials%20(360p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Sonic%20Drive-In%20Commercial%202016.mp4
+
+# ===============================================================================================
+# WE'RE BACK
+# ===============================================================================================
+#EXTINF:-1 tvg-id="Non-Filler" tvg-name=" CN+ Non-Filler" group-title="Github", CN+ Burst Non-Filler
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/ident/ersatztv/4.0%20-%20regular%20show.mp4
+# ===============================================================================================
+#EXTINF:-1 tvg-id="show" tvg-name="CN+ Burst" group-title="Burst Era Expanded", NOW PLAYING - COURAGE THE COWARDLY DOG
+https://anondrop.net/1536012578193539233/courage_s1e4_part2.mp4?download=true
+
+#===============================================================================
+#END OF EPISODE
+#===============================================================================
+#NEXT - OK KO
+#===============================================================================
+
+#EXTINF:-1 tvg-id="Filler" tvg-name=" CN+ Filler " group-title="Github", Commerical
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/Cartoon%20Network%20Europe%20-%20Loop%20Bumper%20(CHECK%20it%204.0)%20-%20zQwmy%20(480p).mp4
+#EXTINF:15, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Fruitsnackia%20~%20Manners%20-%20fruitsnackia2012%20(1080p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Lego%20Legends%20of%20Chima%202015%20Sir%20Fangar%E2%80%99s%20Saber%20Tooth%20Walker%20vs%20Laval%E2%80%99s%20Fire%20Lion%20Commercial%20-%20X%20Soft%20(720p).mp4
+#EXTINF:0, Commercial 
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Slick%20Fix%C2%AE%20Commercial%20(2015)%20Flex%20Seal%C2%AE%20-%20Flex%20Seal%20(360p).mp4
+#EXTINF:0, MOVIE TV SPOT  
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/AdonisStickmanGITHUB-patch-1/real-commercials/Star%20Wars%20The%20Force%20Awakens%20Official%20TV%20Spot%20-%20Generation%20(2015)%20-%20Star%20Wars%20Movie%20HD%20-%20Rotten%20Tomatoes%20Trailers%20(1080p).mp4
+
+#====================================================================================
+#FILLER
+#====================================================================================
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE TIME!
+https://raw.githubusercontent.com/AdonisStickmanGITHUB/CN-plus-extra-resource-penguinmod/main/filler/MINISODE TIME!.webm
+
+#EXTINF:-1 tvg-id="MINISODE" tvg-name="MINISODE " group-title="Github", MINISODE - MIXELS
+https://anondrop.net/1536449011219824701/mixels_shorts4.mp4?download=true
+#====================================================================================
+
+#END
